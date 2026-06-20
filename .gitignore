@@ -1,0 +1,19 @@
+# Compiled Java Class Files
+*.class
+
+# Log files
+*.log
+
+# Saved Project Files
+*.ser
+floorplan.ser
+
+# IDE settings and metadata
+.idea/
+.vscode/
+*.iml
+.settings/
+.classpath
+.project
+.DS_Store
+Thumbs.db
